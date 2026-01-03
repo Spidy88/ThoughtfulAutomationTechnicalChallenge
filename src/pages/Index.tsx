@@ -19,7 +19,7 @@ const Index = () => {
             </div>
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/Spidy88/ThoughtfulAutomationTechnicalChallenge"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-lg hover:bg-muted transition-colors text-muted-foreground hover:text-foreground"
